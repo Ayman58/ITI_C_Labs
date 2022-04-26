@@ -1,0 +1,24 @@
+Day 4:
+=====
+
+Answer the following questions:
+--------------------------------
+
+1) C Program to take firstName and lastName from user, then displays fullName.
+
+2) C Program to take char and displays if it is "Normal or Extended key" along with its Ascii value.
+
+3) Highlight Menu: New Colored Menu "with Arrows"
+
+
+
+Answer "as much as you can" from the following:
+------------------------------------------------
+
+4- C Program to Find the Frequency of Characters in a String
+
+5- C Program to Copy String Without Using strcpy()
+
+6- C Program to Find the Length of a String without Using strlen()
+
+7- C Program to Remove all Characters in a String Except Alphabet

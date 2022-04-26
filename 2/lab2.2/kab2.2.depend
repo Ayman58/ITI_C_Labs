@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637792144 source:c:\users\ayman\desktop\c labs\kab2.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<MyLibrary.h>
+

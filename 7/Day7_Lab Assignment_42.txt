@@ -1,0 +1,38 @@
+Day 7:
+======
+
+Answer the following questions:
+--------------------------------
+1. int* IncrementArray()
+
+
+2. C Program to calculate sum of student degrees, and average of each subject, asks the user for
+	students and subject numbers. (Dynamic Allocation of 2D Array - Pointer to Pointer)
+
+
+3. Update your single line editor to add "delete" & "backspace"
+
+
+Bonus: 
+======
+Answer "as much as you can" from the following:
+------------------------------------------------
+
+3. Try to implement --jagged array-- on Assinment No.4 , which means:
+ each student may have number of subjects different than the other. 
+
+
+4. Single LineEditor as a function, and use it to read employee data in ur highlited menu:
+	char* LineEditor(int size, int xPos, int yPos, char rangeStart, char rangeEnd);
+     Ex: 
+	//scanf("%s", empArr[i].Name)
+
+	empArr[i].Name = LineEditor(20, 10, 7, 'A', 'z');
+
+
+5. MultiLine Editor "delete, backspace, upArrow, downArrow, 
+Enter (for new line), Esc (to print the whole lines)"...
+
+
+
+

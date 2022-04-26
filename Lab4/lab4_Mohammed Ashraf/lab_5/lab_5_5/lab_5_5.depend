@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1638192551 source:e:\iti\lec\c\lec_5\lab_5_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"E:\iti\lec\C\MyLibrary.h"
+
+1637750860 e:\iti\lec\c\mylibrary.h
+	<windows.h>
+

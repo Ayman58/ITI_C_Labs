@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1638367856 source:c:\users\ayman\desktop\c labs\lab7.2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1638368030 source:d:\iti\c\c labs\7\lab7.2\main.c
+	<stdio.h>
+	<stdlib.h>
+
